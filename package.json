@@ -1,0 +1,21 @@
+{
+  "name": "StockVel",
+  "version": "0.1.0",
+  "author": "Namanje1 <user+Namanje1@algorithmia.com>",
+  "description": "Algorithmia Algorithm - Namanje1/StockVel",
+  "main": "StockVel.js",
+  "bin": {
+    "StockVel": "./StockVel.js"
+  },
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "algorithmia": "0.3.x"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  }
+}
+
